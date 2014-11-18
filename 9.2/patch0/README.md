@@ -49,7 +49,7 @@
 | Ubuntu | 10, 12, 14 | i386 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-ubuntu10.i386.deb) | 
 | VMWare ESX | Server 4 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-rhe5.x86_64.rpm) |
 
-## External version
+## External libraries
 | External                                 | Version |
 | ---------------------------------------- | ------- |
 | [OpenSSL](https://www.openssl.org)       | 1.0.1h  |
