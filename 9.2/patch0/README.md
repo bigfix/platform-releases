@@ -57,7 +57,7 @@
 
 ### Utilities
 | Name | Operating System | Download |
-| ---- | -------- |
+| ---- | ---------------- | -------- |
 | QnA/Fixlet Debugger | Windows | [Download](http://software.bigfix.com/download/bes/92/util/QNA9.2.0.363.zip) |
 | RESTAPI Command-line interface (CLI) | Windows | [Download](http://software.bigfix.com/download/bes/92/util/IEMCLI9.2.0.363.zip) |
 | Airgap Tool | Windows | [Download](http://software.bigfix.com/download/bes/92/util/BESAirgapTool9.2.0.363.zip) |
