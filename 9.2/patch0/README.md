@@ -55,6 +55,16 @@
 | Ubuntu | 10, 12, 14 | i386 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-ubuntu10.i386.deb) | 
 | VMWare ESX | Server 4 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-rhe5.x86_64.rpm) |
 
+### Console
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Console-9.2.0.363.exe) |
+
+### Installation Generator
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-9.2.0.363.exe) |
+
 ### Utilities
 | Name | Operating System | Download |
 | ---- | ---------------- | -------- |
