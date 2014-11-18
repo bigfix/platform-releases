@@ -55,6 +55,16 @@
 | Ubuntu | 10, 12, 14 | i386 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-ubuntu10.i386.deb) | 
 | VMWare ESX | Server 4 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-rhe5.x86_64.rpm) |
 
+### Utilities
+| Name | Operating System | Download |
+| ---- | -------- |
+| QnA/Fixlet Debugger | Windows | [Download](http://software.bigfix.com/download/bes/92/util/QNA9.2.0.363.zip) |
+| RESTAPI Command-line interface (CLI) | Windows | [Download](http://software.bigfix.com/download/bes/92/util/IEMCLI9.2.0.363.zip) |
+| Airgap Tool | Windows | [Download](http://software.bigfix.com/download/bes/92/util/BESAirgapTool9.2.0.363.zip) |
+| BESRemove | Windows | [Download](http://software.bigfix.com/download/bes/92/util/BESRemove9.2.0.363.exe) |
+
+For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Endpoint%20Manager/page/Utilities).
+
 ## External libraries
 | External                                 | Version |
 | ---------------------------------------- | ------- |
