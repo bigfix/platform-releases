@@ -1,5 +1,10 @@
 # 9.2
 
+## General
+* [Documentation via IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter/SS63NW_9.2.0/com.ibm.tivoli.tem.doc_9.2/welcome/IEM92_landing.html)
+* [Known Issues](http://www-01.ibm.com/support/docview.wss?uid=swg21687166)
+* [Technical Changelist](http://support.bigfix.com/bes/changes/fullchangelist-92.txt)
+
 ## Download
 
 ### Server
