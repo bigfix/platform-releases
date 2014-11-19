@@ -50,7 +50,7 @@
 | SUSE Linux Enterprise | 10, 11 | ppc64 (big-endian) | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-sle10.ppc64.rpm) |
 | SUSE Linux Enterprise | 10, 11 | s390x | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-sle10.s390x.rpm) |
 | SUSE Linux Enterprise | 10 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-sle9.x86_64.rpm) |
-| SUSE Linux Enterprise | 10 | i686 | [Download](http://software.bigfix.com/download/bes/91/BESAgent-9.1.1117.0-sle10.i686.rpm) |
+| SUSE Linux Enterprise | 10 | i686 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-sle10.i686.rpm) |
 | Ubuntu | 10, 12, 14 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-ubuntu10.amd64.deb) |
 | Ubuntu | 10, 12, 14 | i386 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-ubuntu10.i386.deb) | 
 | VMWare ESX | Server 4 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-rhe5.x86_64.rpm) |
