@@ -1,9 +1,9 @@
 # 9.0 Patch 5 
 
 ## General
-* [Documentation via IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter/SS63NW_9.1.0/com.ibm.tivoli.tem.doc_9.1/welcome/IEM91_landing.html)
-* [Known Issues](http://www-01.ibm.com/support/docview.wss?uid=swg21667537)
-* [Technical Changelist](http://support.bigfix.com/bes/changes/fullchangelist-91.txt)
+* [Documentation via IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter/SS63NW_9.0.0/com.ibm.tivoli.tem.doc_9.0/welcome/IEM90_landing.html)
+* [Known Issues](http://www-01.ibm.com/support/docview.wss?uid=swg21628247)
+* [Technical Changelist](http://support.bigfix.com/bes/changes/fullchangelist-90.txt)
 * System Requirements
 	* [Server](http://www-01.ibm.com/support/docview.wss?uid=swg21505691)
 	* [Console](http://www-01.ibm.com/support/docview.wss?uid=swg21505693)
