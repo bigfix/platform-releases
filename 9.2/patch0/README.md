@@ -18,7 +18,7 @@
 | Operating System | Version | Architecture | Download |
 | ---------------- | ------- | ------------ | -------- |
 | Windows | XP (or greater) | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Relay-9.2.0.363.exe) |
-| AIX | 6.1 (TL4 or greater), 7.1 | ppc64| [Download](http://software.bigfix.com/download/bes/92/BESRelay-9.2.0.363.ppc64_aix61.pkg) |
+| AIX | 6.1 (TL4 or greater), 7.1 | ppc64 | [Download](http://software.bigfix.com/download/bes/92/BESRelay-9.2.0.363.ppc64_aix61.pkg) |
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | [Download](http://software.bigfix.com/download/bes/92/BESRelay-9.2.0.363-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | [Download](http://software.bigfix.com/download/bes/92/BESRelay-9.2.0.363-rhe5.i686.rpm) |
 | Solaris | 10, 11 | i386 | [Download](http://software.bigfix.com/download/bes/92/BESRelay-9.2.0.375.x86_sol10.pkg) |
