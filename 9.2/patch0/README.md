@@ -79,4 +79,4 @@ For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](h
 | External                                 | Version |
 | ---------------------------------------- | ------- |
 | [OpenSSL](https://www.openssl.org)       | 1.0.1h  |
-| [libcURL](https://curl.haxx.se/libcurl/)  | 7.21.7  |
+| [libcURL](https://curl.haxx.se/libcurl/) | 7.21.7  |
