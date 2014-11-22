@@ -94,15 +94,13 @@
 | Name | Operating System | Download |
 | ---- | ---------------- | -------- |
 | QnA/Fixlet Debugger | Windows | [Download](http://software.bigfix.com/download/bes/82/util/QNA8.2.1409.0.zip) |
-| RESTAPI Command-line interface (CLI) | Windows | [Download](http://software.bigfix.com/download/bes/82/util/IEMCLI8.2.1409.0.zip) |
 | Airgap Tool | Windows | [Download](http://software.bigfix.com/download/bes/82/util/BESAirgapTool8.2.1409.0.zip) |
 | BESRemove | Windows | [Download](http://software.bigfix.com/download/bes/82/util/BESRemove8.2.1409.0.exe) |
 
 For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Endpoint%20Manager/page/Utilities).
 
 ## External libraries
-| External                                      | Version |
-| --------------------------------------------- | ------- |
-| [OpenSSL](https://www.openssl.org) (non-FIPS) | 0.9.8y  |
-| [OpenSSL](https://www.openssl.org) (FIPS)     | 0.9.8f  |
-| [libcURL](https://curl.haxx.se/libcurl/)      | 7.21.7  |
+| External | Version |
+| -------- | ------- |
+| [OpenSSL](https://www.openssl.org) | 0.9.8y (non-FIPS), 0.9.8f (FIPS)  |
+| [libcURL](http://curl.haxx.se/libcurl/) | 7.21.7  |

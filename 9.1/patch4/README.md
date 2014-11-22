@@ -16,6 +16,6 @@
 | Ubuntu | 14 | i386 | 1134 | [Download](http://software.bigfix.com/download/bes/91/BESAgent-9.1.1134.0-ubuntu10.i386.deb) | 
 
 ## External libraries
-| External                                 | Version |
-| ---------------------------------------- | ------- |
-| [OpenSSL](https://www.openssl.org)       | 1.0.1h  |
+| External | Version |
+| -------- | ------- |
+| [OpenSSL](http://www.openssl.org) | 1.0.1h  |
