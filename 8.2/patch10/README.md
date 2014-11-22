@@ -22,8 +22,10 @@ For manual upgrade help, visit [instructions via developerWorks](https://www.ibm
 | ---------------- | -------- |
 | Windows | [Download](http://software.bigfix.com/download/bes/82/BigFix-BES-ServerAPI-8.2.1445.0.exe) |
 
-## External libraries
-| External | Version |
-| -------- | ------- |
+## Versions
+
+### External Libraries
+| Library | Version |
+| ------- | ------- |
 | [OpenSSL](https://www.openssl.org) | 0.9.8y (non-FIPS), 0.9.8f (FIPS) |
 | [libcURL](https://curl.haxx.se/libcurl/) | 7.21.7 |

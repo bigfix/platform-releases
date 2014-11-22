@@ -86,8 +86,15 @@
 
 For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Endpoint%20Manager/page/Utilities).
 
-## External libraries
-| External | Version |
-| -------- | ------- |
+## Versions
+
+### External Libraries
+| Library | Version |
+| ------- | ------- |
 | [OpenSSL](https://www.openssl.org) | 0.9.8y |
 | [libcURL](http://curl.haxx.se/libcurl/) | 7.21.7 |
+
+### Internal
+| Name | Version |
+| ---- | ------- |
+| DBINFO | Enterprise 4.37 |
