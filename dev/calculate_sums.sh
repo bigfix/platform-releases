@@ -23,3 +23,4 @@ for release in $(ls -dR $dir/[0-9]*/*); do
 	[[ -n "$packages" ]] && rm -rf $packages
 done
 
+exit 0
