@@ -104,5 +104,5 @@ For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](h
 ## External libraries
 | External | Version |
 | -------- | ------- |
-| [OpenSSL](https://www.openssl.org) | 0.9.8y (non-FIPS), 0.9.8f (FIPS)  |
-| [libcURL](http://curl.haxx.se/libcurl/) | 7.21.7  |
+| [OpenSSL](https://www.openssl.org) | 0.9.8y (non-FIPS), 0.9.8f (FIPS) |
+| [libcURL](http://curl.haxx.se/libcurl/) | 7.21.7 |

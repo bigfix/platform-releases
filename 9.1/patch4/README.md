@@ -18,4 +18,4 @@
 ## External libraries
 | External | Version |
 | -------- | ------- |
-| [OpenSSL](http://www.openssl.org) | 1.0.1h  |
+| [OpenSSL](http://www.openssl.org) | 1.0.1h |
