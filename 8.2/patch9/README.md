@@ -1,4 +1,4 @@
-# 9.2
+# 8.2 Patch 9
 
 ## General
 * [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_8.2.0/com.ibm.tem.doc_8.2/lifecyclewelcome.html)
