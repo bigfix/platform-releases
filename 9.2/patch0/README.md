@@ -14,6 +14,11 @@
 | Windows | Server 2008 (or greater) | x86_64 | 363 | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Server-9.2.0.363.exe) |
 | Red Hat Enterprise Linux | 6, 7 | x86_64 | 363 | [Download](http://software.bigfix.com/download/bes/92/ServerInstaller_9.2.0.363-rhe6.x86_64.tgz) |
 
+#### Platform API
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-ServerAPI-9.2.0.363.exe) |
+
 ### Relay
 | Operating System | Version | Architecture | Build Number | Download |
 | ---------------- | ------- | ------------ | ------------ | -------- |

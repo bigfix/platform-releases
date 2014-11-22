@@ -16,6 +16,11 @@
 | Windows | Server 2008 (or greater) | x86_64 | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-Server-9.1.1117.0.exe) |
 | Red Hat Enterprise Linux | 6 | x86_64 | [Download](http://software.bigfix.com/download/bes/91/ServerInstaller_9.1.1117.0-rhe6.x86_64.tgz) |
 
+#### Platform API
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-ServerAPI-9.1.1117.0.exe) |
+
 ### Relay
 | Operating System | Version | Architecture | Download |
 | ---------------- | ------- | ------------ | -------- |

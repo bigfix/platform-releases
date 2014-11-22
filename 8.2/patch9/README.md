@@ -15,6 +15,11 @@
 | ---------------- | ------- | ------------ | -------- |
 | Windows | Server 2008 (or greater) | x86_64 | [Download](http://software.bigfix.com/download/bes/82/BigFix-BES-Server-8.2.1409.0.exe) |
 
+#### Platform API
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/82/BigFix-BES-ServerAPI-8.2.1409.0.exe) |
+
 ### Relay
 | Operating System | Version | Architecture | Download |
 | ---------------- | ------- | ------------ | -------- |

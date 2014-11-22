@@ -16,6 +16,11 @@
 | Windows | Server 2008 (or greater) | i386 | [Download](http://software.bigfix.com/download/bes/90/BigFix-BES-Server-9.0.835.0.exe) |
 | Red Hat Enterprise Linux | 6 | x86_64 | [Download](http://software.bigfix.com/download/bes/90/ServerInstaller_9.0.835.0-rhel.tgz) |
 
+#### Platform API
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/90/BigFix-BES-ServerAPI-9.0.835.0.exe) |
+
 ### Relay
 | Operating System | Version | Architecture | Download |
 | ---------------- | ------- | ------------ | -------- |
