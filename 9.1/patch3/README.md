@@ -1,6 +1,8 @@
 # 9.1 Patch 3
 
 ## General
+* Announcement
+	* [June 30, 2014](http://bigmail.bigfix.com/pipermail/besadmin-announcements/2014-June/002256.html)
 * [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_9.1.0/com.ibm.tivoli.tem.doc_9.1/welcome/IEM91_landing.html)
 * [Known Issues](https://www-01.ibm.com/support/docview.wss?uid=swg21667537)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-91.txt)
