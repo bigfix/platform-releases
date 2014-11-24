@@ -5,4 +5,4 @@ clean:
 
 sums: 
 	vagrant up && \
-	vagrant ssh --command '/vagrant/dev/calculate_sums.sh'
+	vagrant ssh --command '/ohana/dev/calculate_sums.sh'

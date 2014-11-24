@@ -12,4 +12,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     v.customize ["modifyvm", :id, "--memory", 1024]
     v.customize ["modifyvm", :id, "--cpus", 1]
   end
+
+  config.vm.synced_folder "../", "/ohana"
 end
