@@ -2,7 +2,7 @@
 
 ## General
 * Announcement
-	* [December 8, 2014](http://bigmail.bigfix.com/pipermail/besadmin-announcements/2014-Dec/002512.html)
+	* [December 8, 2014](http://bigmail.bigfix.com/pipermail/besadmin-announcements/2014-December/002512.html)
 * [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_8.2.0/com.ibm.tem.doc_8.2/lifecyclewelcome.html)
 * [Known Issues](https://www-01.ibm.com/support/docview.wss?uid=swg21571487)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-82.txt)
