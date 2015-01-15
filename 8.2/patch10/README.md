@@ -10,6 +10,8 @@
 	* [Server](https://www-01.ibm.com/support/docview.wss?uid=swg21505691)
 
 ## Download
+* [SHA1SUMS](SHA1SUMS)
+* [SHA256SUMS](SHA256SUMS)
 
 ### Server
 #### Web Reports Server

@@ -9,6 +9,8 @@
 * [System Requirements](https://www-01.ibm.com/support/docview.wss?rs=1015&uid=swg21684809)
 
 ## Download
+* [SHA1SUMS](SHA1SUMS)
+* [SHA256SUMS](SHA256SUMS)
 
 ### Server
 | Operating System | Version | Architecture | Build Number | Download |

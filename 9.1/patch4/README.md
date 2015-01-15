@@ -6,6 +6,8 @@
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-91.txt)
 
 ## Download
+* [SHA1SUMS](SHA1SUMS)
+* [SHA256SUMS](SHA256SUMS)
 
 ### Agent
 | Operating System | Version | Architecture | Build Number | Download |
