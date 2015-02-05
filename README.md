@@ -2,10 +2,12 @@
 For more information, see:
 
 ## 9.2
+* [Patch 2](9.2/patch2) (9.2.2.21)
 * [Patch 1](9.2/patch1) (9.2.1.48)
 * [Patch 0](9.2/patch0) (9.2.0.375, 9.2.0.363)
 
 ## 9.1
+* [Patch 6](9.1/patch6) (9.1.1233.0)
 * [Patch 5](9.1/patch5) (9.1.1229.0)
 * [Patch 4](9.1/patch4) (9.1.1141.0, 9.1.1134.0)
 * [Patch 3](9.1/patch3) (9.1.1117.0)
