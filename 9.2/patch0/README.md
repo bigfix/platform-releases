@@ -38,7 +38,7 @@
 ### Agent
 | Operating System | Version | Architecture | Build Number | Download |
 | ---------------- | ------- | ------------ | ------------ | -------- |
-| Windows | XP (or greater) | x86_64 | 363 | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Client-9.2.0.363.exe) |
+| Windows | XP (or greater) | i386 | 363 | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Client-9.2.0.363.exe) |
 | AIX | 6.1 (TL4 or greater), 7.1 | ppc64 | 363 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363.ppc64_aix61.pkg) |
 | CentOS | 5, 6 | x86_64 | 363 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-rhe5.x86_64.rpm) |
 | CentOS | 5, 6 | i686 | 363 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.0.363-rhe5.i686.rpm) |
