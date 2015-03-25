@@ -15,8 +15,8 @@
 ### Server
 | Operating System | Version | Architecture | Build Number | Download |
 | ---------------- | ------- | ------------ | ------------ | -------- |
-| Windows | Server 2008 (or greater) | x86_64 | 21 | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Server-9.2.3.68.exe) |
-| Red Hat Enterprise Linux | 6, 7 | x86_64 | 21 | [Download](http://software.bigfix.com/download/bes/92/ServerInstaller_9.2.3.68-rhe6.x86_64.tgz) |
+| Windows | Server 2008 (or greater) | x86_64 | 68 | [Download](http://software.bigfix.com/download/bes/92/BigFix-BES-Server-9.2.3.68.exe) |
+| Red Hat Enterprise Linux | 6, 7 | x86_64 | 68 | [Download](http://software.bigfix.com/download/bes/92/ServerInstaller_9.2.3.68-rhe6.x86_64.tgz) |
 
 #### Platform API
 | Operating System | Download |
