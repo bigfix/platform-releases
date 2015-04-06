@@ -4,6 +4,7 @@ For more information, see:
 ## 9.2
 | Release | Server | Console | Relay | Agent |
 | ------- | ------ | ------- |------ | ----- |
+| [Patch 4](9.2/patch4) | N/A | N/A | N/A | 9.2.4.2 |
 | [Patch 3](9.2/patch3) | 9.2.3.68 | 9.2.3.68 | N/A | N/A |
 | [Patch 2](9.2/patch2) | 9.2.2.21 | 9.2.2.21 | N/A | N/A |
 | [Patch 1](9.2/patch1) | 9.2.1.48 | 9.2.1.48 | 9.2.1.48 | 9.2.1.48 |
