@@ -54,7 +54,7 @@
 | Solaris | 11 | sparc | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48.sparc_sol11.pkg) |
 | Solaris | 10 | i386 | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48.x86_sol10.pkg) |
 | Solaris | 10 | sparc | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48.sparc_sol10.pkg) |
-| SUSE Linux Enterprise | 11 | x86_64 | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48-sle11.x86_64.rpm) |
+| SUSE Linux Enterprise | 11, 12 | x86_64 | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48-sle11.x86_64.rpm) |
 | SUSE Linux Enterprise | 11 | i686 | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48-sle11.i686.rpm) |
 | SUSE Linux Enterprise | 10, 11 | ppc64 (big-endian) | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48-sle10.ppc64.rpm) |
 | SUSE Linux Enterprise | 10, 11 | s390x | 48 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.1.48-sle10.s390x.rpm) |
