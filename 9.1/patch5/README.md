@@ -14,6 +14,11 @@
 * [SHA1SUMS](SHA1SUMS)
 * [SHA256SUMS](SHA256SUMS)
 
+### Installation Generator
+| Operating System | Download |
+| ---------------- | -------- |
+| Windows | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-9.1.1229.0.exe) |
+
 ### Server
 | Operating System | Version | Architecture | Download |
 | ---------------- | ------- | ------------ | -------- |
@@ -69,11 +74,6 @@
 | Operating System | Download |
 | ---------------- | -------- |
 | Windows | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-Console-9.1.1229.0.exe) |
-
-### Installation Generator
-| Operating System | Download |
-| ---------------- | -------- |
-| Windows | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-9.1.1229.0.exe) |
 
 ### Utilities
 | Name | Operating System | Download |
