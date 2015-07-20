@@ -55,7 +55,7 @@
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-rhe5.i686.rpm) |
 | Red Hat Enterprise Linux | 5 (Update 5 or greater), 6, 7 | ppc64 (big-endian) | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-rhe5.ppc64.rpm) |
-| Red Hat Enterprise Linux | 5, 6 | s390x | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-rhe5.s390x.rpm) |
+| Red Hat Enterprise Linux | 5, 6, 7 | s390x | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-rhe5.s390x.rpm) |
 | Solaris | 11 | i386 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130.x86_sol11.pkg) |
 | Solaris | 11 | sparc | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130.sparc_sol11.pkg) |
 | Solaris | 10 | i386 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130.x86_sol10.pkg) |
@@ -63,7 +63,7 @@
 | SUSE Linux Enterprise | 11, 12 | x86_64 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle11.x86_64.rpm) |
 | SUSE Linux Enterprise | 11 | i686 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle11.i686.rpm) |
 | SUSE Linux Enterprise | 10, 11 | ppc64 (big-endian) | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle10.ppc64.rpm) |
-| SUSE Linux Enterprise | 10, 11 | s390x | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle10.s390x.rpm) |
+| SUSE Linux Enterprise | 10, 11, 12 | s390x | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle10.s390x.rpm) |
 | SUSE Linux Enterprise | 10 | x86_64 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle9.x86_64.rpm) |
 | SUSE Linux Enterprise | 10 | i686 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-sle10.i686.rpm) |
 | Ubuntu | 10, 12, 14 | x86_64 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.5.130-ubuntu10.amd64.deb) |
