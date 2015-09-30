@@ -1,4 +1,4 @@
-# 9.1 Patch 6
+# 9.1 Patch 7
 
 ## General
 * Announcement
