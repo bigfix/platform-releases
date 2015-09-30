@@ -14,6 +14,7 @@ For more information, see:
 ## 9.1
 | Release | Server | Console | Relay | Agent |
 | ------- | ------ | ------- |------ | ----- |
+| [Patch 7](9.1/patch7) | 9.1.1257.0 | 9.1.1257.0 | N/A | N/A |
 | [Patch 6](9.1/patch6) | 9.1.1233.0 | 9.1.1233.0 | N/A | N/A |
 | [Patch 5](9.1/patch5) | 9.1.1229.0 | 9.1.1229.0 | 9.1.1229.0 | 9.1.1229.0 |
 | [Patch 4](9.1/patch4) | N/A | N/A | N/A | 9.1.1141.0, 9.1.1134.0 |
@@ -22,6 +23,7 @@ For more information, see:
 ## 9.0
 | Release | Server | Console | Relay | Agent |
 | ------- | ------ | ------- |------ | ----- |
+| [Patch 8](9.0/patch8) | 9.0.897.0 | 9.0.897.0 | 9.0.897.0 | 9.0.897.0 |
 | [Patch 7](9.0/patch7) | 9.0.876.0 | 9.0.876.0 | 9.0.876.0 | 9.0.876.0 |
 | [Patch 6](9.0/patch6) | 9.0.853.0 | 9.0.853.0 | N/A | N/A |
 | [Patch 5](9.0/patch5) | 9.0.835.0 | 9.0.835.0 | 9.0.835.0 | 9.0.835.0 |
@@ -29,6 +31,7 @@ For more information, see:
 ## 8.2
 | Release | Server | Console | Relay | Agent |
 | ------- | ------ | ------- |------ | ----- |
+| [Patch 12](8.2/patch12) | 8.2.1472.0 | N/A | N/A | N/A |
 | [Patch 11](8.2/patch11) | 8.2.1456.0 | N/A | N/A | N/A |
 | [Patch 10](8.2/patch10) | 8.2.1445.0 | N/A | N/A | N/A |
 | [Patch 9](8.2/patch9) | 8.2.1409.0 | 8.2.1409.0 | 8.2.1409.0 | 8.2.1409.0 |
