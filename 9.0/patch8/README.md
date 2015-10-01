@@ -2,7 +2,7 @@
 
 ## General
 * Announcement
-	* TBD
+	* [September 30, 2015](https://bigmail.bigfix.com/pipermail/besadmin-announcements/2015-September/002942.html)
 * [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_9.0.0/com.ibm.tivoli.tem.doc_9.0/welcome/IEM90_landing.html)
 * [Known Issues](https://www-01.ibm.com/support/docview.wss?uid=swg21628247)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-90.txt)
