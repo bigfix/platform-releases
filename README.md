@@ -31,7 +31,7 @@ For more information, see:
 ## 8.2
 | Release | Server | Console | Relay | Agent |
 | ------- | ------ | ------- |------ | ----- |
-| [Patch 12](8.2/patch12) | 8.2.1472.0 | N/A | N/A | N/A |
+| [Patch 12](8.2/patch12) | 8.2.1472.0 | 8.2.1472.0 | 8.2.1472.0 | 8.2.1472.0 |
 | [Patch 11](8.2/patch11) | 8.2.1456.0 | N/A | N/A | N/A |
 | [Patch 10](8.2/patch10) | 8.2.1445.0 | N/A | N/A | N/A |
 | [Patch 9](8.2/patch9) | 8.2.1409.0 | 8.2.1409.0 | 8.2.1409.0 | 8.2.1409.0 |
