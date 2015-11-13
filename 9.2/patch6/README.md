@@ -81,7 +81,7 @@
 | QnA/Fixlet Debugger | Windows | [Download](http://software.bigfix.com/download/bes/92/util/QNA9.2.6.94.zip) |
 | RESTAPI Command-line interface (CLI) | Windows | [Download](http://software.bigfix.com/download/bes/92/util/CLI9.2.6.94.zip) |
 | Airgap Tool | Windows | [Download](http://software.bigfix.com/download/bes/92/util/AirgapTool9.2.6.94.zip) |
-| BESRemove | Windows | [Download](http://software.bigfix.com/download/bes/92/util/Remove9.2.6.94.exe) |
+| BESRemove | Windows | [Download](http://software.bigfix.com/download/bes/92/util/BESRemove9.2.6.94.exe) |
 
 For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Endpoint%20Manager/page/Utilities).
 
