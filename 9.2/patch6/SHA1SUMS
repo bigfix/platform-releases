@@ -1,3 +1,4 @@
+4ce727019d2734d744b2916623b5dfe7c759aff9  AirgapTool9.2.6.94.zip
 dcec49e6c39826be2a5232d7f2242cc4de9e04d4  BESAgent-9.2.6.94-BigFix_MacOSX10.6.pkg
 2648daee46dfd10f3d37860dbb90c69f74c0ccad  BESAgent-9.2.6.94-debian6.amd64.deb
 23b39f0dd1a230c1aa89fa040f193b43b92cfc95  BESAgent-9.2.6.94-debian6.i386.deb
@@ -26,10 +27,13 @@ e0e6048a627a41f66efd1039334cfb2da06ba7f5  BESRelay-9.2.6.94-rhe5.x86_64.rpm
 7a13c24f5ba429eb68a727bd14967a0343f85d98  BESRelay-9.2.6.94-sle11.x86_64.rpm
 ec289e076def74ce1dd9d121bb7de5029d863f64  BESRelay-9.2.6.94.sparc_sol10.pkg
 eafcb575d7f3179f8a7bdfe51cb1633589907225  BESRelay-9.2.6.94.x86_sol10.pkg
+a92a1e012f8ddeac96c49c561d80960bced4ce82  BESRemove9.2.6.94.exe
 74a8fa7aeecbee28740d3875f57695106c0d9d5d  BigFix-BES-9.2.6.94.exe
 b3409062cc1fb885c2ba0aecd5242d733c702520  BigFix-BES-Client-9.2.6.94.exe
 e9e405b0edd8b27cdb336ef3438e2f54cb27cdb6  BigFix-BES-Console-9.2.6.94.exe
 3a72573672ba666735834feccb10ff24f012c3a0  BigFix-BES-Relay-9.2.6.94.exe
 d7b3e186c269c5223c25b81b0595437fd34f47c0  BigFix-BES-Server-9.2.6.94.exe
 9b0e0cfdb81c248f284b49f896e0dc5c0079b90b  BigFix-BES-ServerAPI-9.2.6.94.exe
+acd16c31831558aa7143b6fd4a95457058e268f5  CLI9.2.6.94.zip
+318799b8d4226c2acf39701e4b2c4aab3ceaf788  QNA9.2.6.94.zip
 e6cb1eee7f562f68680d4dd40292b5198ad385ab  ServerInstaller_9.2.6.94-rhe6.x86_64.tgz
