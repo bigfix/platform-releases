@@ -4,7 +4,6 @@
 * Announcement
 	* [November 16, 2015](https://bigmail.bigfix.com/pipermail/besadmin-announcements/2015-November/003012.html)
 * [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_9.2.0/com.ibm.tivoli.tem.doc_9.2/welcome/IEM92_landing.html)
-* [Known Issues](https://www-01.ibm.com/support/docview.wss?uid=swg21687166)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-92.txt)
 * [System Requirements](https://www-01.ibm.com/support/docview.wss?rs=1015&uid=swg21684809)
 
