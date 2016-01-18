@@ -50,7 +50,8 @@
 | Debian | 6, 7 | x86_64 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-debian6.amd64.deb) |
 | Debian | 6, 7 | i386 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-debian6.i386.deb) |
 | HPUX | 11.11, 11.23, 11.31 | pa_risc | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94.pa_risc_hpux1111.depot) |
-| Mac OSX | 10.6 (or greater) | - | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-BigFix_MacOSX10.6.pkg) |
+| Mac OSX | 10.6 (or greater) | - | 130 | [Download (.pkg)](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-BigFix_MacOSX10.6.pkg) |
+| Mac OSX | 10.6 (or greater) | - | 130 | [Download (.dmg)](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-BigFix_MacOSX10.6.dmg) |
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-rhe5.i686.rpm) |
 | Red Hat Enterprise Linux | 5 (Update 5 or greater), 6, 7 | ppc64 (big-endian) | 130 | [Download](http://software.bigfix.com/download/bes/92/BESAgent-9.2.6.94-rhe5.ppc64.rpm) |
