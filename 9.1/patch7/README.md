@@ -26,9 +26,9 @@
 | Windows | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-ServerAPI-9.1.1257.0.exe) |
 
 ### Relay
-| Operating System | Version | Architecture | Build Number | Download |
-| ---------------- | ------- | ------------ | ------------ | -------- |
-| Windows | XP (or greater) | i386 | 130 | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-Relay-9.1.1257.0.exe) |
+| Operating System | Version | Architecture | Download |
+| ---------------- | ------- | ------------ | -------- |
+| Windows | XP (or greater) | i386 | [Download](http://software.bigfix.com/download/bes/91/BigFix-BES-Relay-9.1.1257.0.exe) |
 | AIX | 6.1 (TL4 or greater), 7.1 | ppc64 | [Download](http://software.bigfix.com/download/bes/91/BESRelay-9.1.1257.0.ppc64_aix61.pkg) |
 | Red Hat Enterprise Linux | 5, 6 | x86_64 | [Download](http://software.bigfix.com/download/bes/91/BESRelay-9.1.1257.0-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | [Download](http://software.bigfix.com/download/bes/91/BESRelay-9.1.1257.0-rhe5.i686.rpm) |
