@@ -2,7 +2,7 @@
 
 ## General
 * Announcement
-	* TBA
+	* [February 24, 2016](https://bigmail.bigfix.com/pipermail/besadmin-announcements/2016-February/003176.html)
 * [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_9.2.0/com.ibm.tivoli.tem.doc_9.2/welcome/IEM92_landing.html)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-92.txt)
 * [System Requirements](https://www-01.ibm.com/support/docview.wss?rs=1015&uid=swg21684809)
