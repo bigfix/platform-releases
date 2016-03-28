@@ -1,6 +1,11 @@
 # Platform Release Information
 For more information, see:
 
+## 9.5
+| Release | Server | Console | Relay | Agent |
+| ------- | ------ | ------- |------ | ----- |
+| [Patch 0](9.5/patch0) | 9.5.0.311 | 9.5.0.311 | 9.5.0.311 | 9.5.0.311 |
+
 ## 9.2
 | Release | Server | Console | Relay | Agent |
 | ------- | ------ | ------- |------ | ----- |
