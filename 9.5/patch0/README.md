@@ -1,9 +1,8 @@
 # 9.5
 
 ## General
-* [Documentation via IBM Knowledge Center](https://www-01.ibm.com/support/knowledgecenter/SS63NW_9.2.0/com.ibm.tivoli.tem.doc_9.5/welcome/IEM92_landing.html)
+* [Documentation via IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/SSQL82_9.5.0/com.ibm.tivoli.tem.doc/welcome/BigFix_Platform_welcome.html)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-95.txt)
-* [System Requirements](https://www-01.ibm.com/support/docview.wss?rs=1015&uid=swg21684809)
 
 ## Download
 * [SHA1SUMS](SHA1SUMS)
@@ -48,8 +47,7 @@
 | Debian | 6, 7 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-debian6.amd64.deb) |
 | Debian | 6, 7 | i386 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-debian6.i386.deb) |
 | HPUX | 11.11, 11.23, 11.31 | pa_risc | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311.pa_risc_hpux1111.depot) |
-| Mac OSX (.pkg)| 10.6 (or greater) | - | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-BigFix_MacOSX10.6.pkg) |
-| Mac OSX (.dmg)| 10.6 (or greater) | - | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-BigFix_MacOSX10.6.dmg) |
+| Mac OSX (.pkg)| 10.6 (or greater) | - | 312 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.312-BigFix_MacOSX10.7.pkg) |
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.i686.rpm) |
 | Red Hat Enterprise Linux | 5 (Update 5 or greater), 6, 7 | ppc64 (big-endian) | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.ppc64.rpm) |
