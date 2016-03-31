@@ -46,8 +46,7 @@
 | CentOS | 5, 6 | i686 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.i686.rpm) |
 | Debian | 6, 7 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-debian6.amd64.deb) |
 | Debian | 6, 7 | i386 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-debian6.i386.deb) |
-| HPUX | 11.11, 11.23, 11.31 | pa_risc | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311.pa_risc_hpux1111.depot) |
-| Mac OSX (.pkg)| 10.6 (or greater) | - | 312 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.312-BigFix_MacOSX10.7.pkg) |
+| Mac OSX (.pkg)| 10.8 (or greater) | - | 312 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.312-BigFix_MacOSX10.7.pkg) |
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.i686.rpm) |
 | Red Hat Enterprise Linux | 5 (Update 5 or greater), 6, 7 | ppc64 (big-endian) | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-rhe5.ppc64.rpm) |
@@ -60,7 +59,7 @@
 | SUSE Linux Enterprise | 11 | i686 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-sle11.i686.rpm) |
 | SUSE Linux Enterprise | 10, 11 | ppc64 (big-endian) | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-sle10.ppc64.rpm) |
 | SUSE Linux Enterprise | 10, 11, 12 | s390x | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-sle10.s390x.rpm) |
-| SUSE Linux Enterprise | 10 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-sle9.x86_64.rpm) |
+| SUSE Linux Enterprise | 10 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-sle10.x86_64.rpm) |
 | SUSE Linux Enterprise | 10 | i686 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-sle10.i686.rpm) |
 | Ubuntu | 10, 12, 14 | x86_64 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-ubuntu10.amd64.deb) |
 | Ubuntu | 10, 12, 14 | i386 | 311 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.0.311-ubuntu10.i386.deb) | 
