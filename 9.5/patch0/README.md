@@ -1,7 +1,8 @@
 # 9.5
 
 ## General
-* [Documentation via IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/SSQL82_9.5.0/com.ibm.tivoli.tem.doc/welcome/BigFix_Platform_welcome.html)
+* [Release Notes](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Endpoint%20Manager/page/IBM%20BigFix%209.5.0%20Release%20Notes)
+* [Documentation via IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/SSQL82_9.5.0/com.ibm.bigfix.doc/welcome/BigFix_Platform_welcome.html)
 * [Technical Changelist](https://support.bigfix.com/bes/changes/fullchangelist-95.txt)
 
 ## Download
