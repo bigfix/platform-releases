@@ -29,27 +29,27 @@
 | Operating System | Version | Architecture | Build Number | Download |
 | ---------------- | ------- | ------------ | ------------ | -------- |
 | Windows | Vista / 2008 (or greater) | i386 | 9 | [Download](http://software.bigfix.com/download/bes/95/BigFix-BES-Relay-9.5.1.9.exe) |
-| AIX | 6.1 (TL4 or greater), 7.1 | ppc64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9.ppc64_aix61.pkg) |
+| AIX | 6.1 (TL4 or greater), 7.x | ppc64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9.ppc64_aix61.pkg) |
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9-rhe5.x86_64.rpm) |
 | CentOS | 7 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9-rhe5.i686.rpm) |
 | Solaris | 10, 11 | i386 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9.x86_sol10.pkg) |
 | Solaris | 10, 11 | sparc | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9.sparc_sol10.pkg) |
-| SUSE Linux Enterprise | 11 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9-sle11.x86_64.rpm) |
+| SUSE Linux Enterprise | 11, 12 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9-sle11.x86_64.rpm) |
 | SUSE Linux Enterprise | 11 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESRelay-9.5.1.9-sle11.i686.rpm) |
 
 ### Agent
 | Operating System | Version | Architecture | Build Number | Download |
 | ---------------- | ------- | ------------ | ------------ | -------- |
 | Windows | Vista / 2008 (or greater) | i386 | 9 | [Download](http://software.bigfix.com/download/bes/95/BigFix-BES-Client-9.5.1.9.exe) |
-| AIX | 6.1 (TL4 or greater), 7.1 | ppc64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9.ppc64_aix61.pkg) |
+| AIX | 6.1 (TL4 or greater), 7.x | ppc64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9.ppc64_aix61.pkg) |
 | CentOS | 5, 6, 7 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.x86_64.rpm) |
 | CentOS | 5, 6 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.i686.rpm) |
 | Debian | 7, 8 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-debian6.amd64.deb) |
 | Debian | 7, 8 | i386 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-debian6.i386.deb) |
 | Mac OSX (.pkg)| 10.8 (or greater) | - | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-BigFix_MacOSX10.7.pkg) |
-| Oracle Enterprise Linux | 6, 7 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.x86_64.rpm) |
-| Oracle Enterprise Linux | 6, 7 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.i686.rpm) |
+| Oracle Enterprise Linux | 7 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.x86_64.rpm) |
+| Oracle Enterprise Linux | 7 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.i686.rpm) |
 | Red Hat Enterprise Linux | 5, 6, 7 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.x86_64.rpm) |
 | Red Hat Enterprise Linux | 5, 6 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.i686.rpm) |
 | Red Hat Enterprise Linux | 5 (Update 5 or greater), 6, 7 | ppc64 (big-endian) | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-rhe5.ppc64.rpm) |
