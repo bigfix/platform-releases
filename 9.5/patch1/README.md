@@ -67,6 +67,7 @@
 | SUSE Linux Enterprise | 10 | i686 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-sle10.i686.rpm) |
 | Ubuntu | 12, 14 | x86_64 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-ubuntu10.amd64.deb) |
 | Ubuntu | 12, 14 | i386 | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-ubuntu10.i386.deb) | 
+| Ubuntu | 14 | ppc64el (little-endian) | 9 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.1.9-ubuntu144.ppc64el.deb) | 
 
 ### Console
 | Operating System | Download |
