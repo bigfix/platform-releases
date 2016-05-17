@@ -65,8 +65,8 @@
 | SUSE Linux Enterprise | 10, 11, 12 | s390x | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-sle10.s390x.rpm) |
 | SUSE Linux Enterprise | 10 | x86_64 | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-sle10.x86_64.rpm) |
 | SUSE Linux Enterprise | 10 | i686 | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-sle10.i686.rpm) |
-| Ubuntu | 12, 14 | x86_64 | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-ubuntu10.amd64.deb) |
-| Ubuntu | 12, 14 | i386 | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-ubuntu10.i386.deb) | 
+| Ubuntu | 12, 14, 16 | x86_64 | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-ubuntu10.amd64.deb) |
+| Ubuntu | 12, 14, 16 | i386 | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-ubuntu10.i386.deb) | 
 | Ubuntu | 14 | ppc64el (little-endian) | 56 | [Download](http://software.bigfix.com/download/bes/95/BESAgent-9.5.2.56-ubuntu144.ppc64el.deb) | 
 
 ### Console
