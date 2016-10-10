@@ -95,4 +95,4 @@ For other IBM Endpoint Manager utilities, visit [Utilities via developerWorks](h
 ### Internal
 | Name | Version |
 | ---- | ------- |
-| DBINFO | Enterprise 8.22 |
+| DBINFO | Enterprise 8.28 |
